@@ -1,0 +1,53 @@
+
+Admin
+
+-- Login
+
+-- View all users and authorize
+
+-- Add Topics with  Topic name,URL,Desc(enc),Uses,URL Author,Launched year,attach Topic image
+
+--- List all Topics urls with ranking order by desc and rating order by desc
+
+--- Set Limit to access malacious webpages and view
+
+--- List all Malacious webpages(if admin name is null,publicher name is Hacker) with attacker names with date and time and IP Address
+
+--- List all Malacious webpages accessed user details with date and time and IP Address
+
+--- Block Malacious webpages accessed user if they cross access limit and view the same
+
+--- View all recommended Webpages by other users  
+
+--- View all Web pages viewed users details with date and time and IP Address
+
+--- View Topic ranks in chart
+
+--- View NO.of time accessed specified Malacious web page by particular user in the chart
+
+--- View No.Of blocked and Un blocked users in the chart 
+
+
+
+User
+
+
+--- Regiter and Login-- If he is blocked then show "YOU ARE BLOCKED"
+
+--- View profile
+
+--- Search Webpages by content keyword - Display only topic name order by desc and webpages and then click on topic name to view all details(increase rank),and 
+    recommend to other users,click on web url to display webpage 
+
+--- View all other user recommeded Web pages
+
+--- View Top k web pages urls and view the details(increase rank)
+
+
+
+Attacker
+
+  --- Call add pages from admin and add web urls like  https://quttera.com/lists/malicious
+
+
+

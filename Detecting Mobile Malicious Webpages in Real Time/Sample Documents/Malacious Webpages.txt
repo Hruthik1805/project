@@ -1,0 +1,26 @@
+Find Malacious Webpages --- https://quttera.com/lists/malicious
+
+
+http://vk-zarabotok.ru:80
+
+http://www.aidatoma.ro:80
+
+http://hi.ru:80
+
+http://envirox.pl:80
+
+http://consol-pro.de:80  --- //// shows Virus
+
+
+http://tsstudio.s12.xrea.com:80 --- This obsolute Malacious Page
+
+
+http://tssc.ac.th:80
+
+http://htyzs.cn:80
+
+http://www.samandagrehberim.com:80
+
+http://www.anvir.net:80
+
+
